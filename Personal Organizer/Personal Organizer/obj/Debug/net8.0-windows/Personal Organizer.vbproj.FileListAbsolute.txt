@@ -1,0 +1,21 @@
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\bin\Debug\net8.0-windows\Personal Organizer.exe
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\bin\Debug\net8.0-windows\Personal Organizer.deps.json
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\bin\Debug\net8.0-windows\Personal Organizer.runtimeconfig.json
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\bin\Debug\net8.0-windows\Personal Organizer.dll
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\bin\Debug\net8.0-windows\Personal Organizer.pdb
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Form1.resources
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Main.resources
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.vbproj.GenerateResource.cache
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.AssemblyInfoInputs.cache
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.AssemblyInfo.vb
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.dll
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\refint\Personal Organizer.dll
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.pdb
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal Organizer.genruntimeconfig.cache
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\ref\Personal Organizer.dll
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Games.resources
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Insight.resources
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Media.resources
+C:\Users\QCU\Desktop\du-ay\Personal Organizer\Personal Organizer\obj\Debug\net8.0-windows\Personal_Organizer.Resources.resources
